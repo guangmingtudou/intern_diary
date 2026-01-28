@@ -1,0 +1,6 @@
+## week 3
+
+### 1.28
+When trying to get some methods to solve RCA from AI like chatGPT and Gemini, I always get methods like GCN and random forest, but based on my understanding, they fail to reach high performances with our data. Today, I finally get the reason. To most AI, RCA means finding the abnormal condition when some alarms show up, but for our goal, we want to find the connection among the alarms without any other information. After talking with my supervisor, we get two ways at present: 1. using the method that I had come up with, with GCN, 2. trying to get other information, like temperature, software version, hardware name, etc. to change our task from alarm-level RCA to system-level RCA, the kind of problem that most AI consider.
+
+I quickly go through random forest, and have some ideas in mind. After getting some data, I would like to give it a try. Also, some rules will be given for my former method, which approximately computes correlation between alarms by the frequecy of appearance of the alarm conbination.
