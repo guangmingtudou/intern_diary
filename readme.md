@@ -19,4 +19,5 @@ graph LR
     G --> H((root cause))
     B -- expert --> C
     I --> A
+    topo[topological graph] --> G
 ```
