@@ -15,3 +15,8 @@ After some discussions, we had found that constructing matrixes for all the ne a
 
 ### 2.3
 The basic algorithms are constructed, what bothered me today was nebula, a graph database. We try to use nebula to store and use our data, so little preparation did we have made, and there's no function that we can use directly but crafting them ourselves. Unfortunately, I have little knowledge in database and SQL languages, so it takes some time for me to construct the functions I want, but with the help of my supervisor and AI, I finally made it. There are still some problems in my algorithm, and I'm ready to solve them as soon as possible tomorrow.
+
+### 2.4
+After struggling with databases, data and bugs for days, I've finally reached a satisfying result. Based on the rules and algorithm that I have built, the predicted root causes along with the probabilities fit my need quite well. When the output showed itself on the screen, I really feel  a sense of achievement and relief. Tomorrow I'm going to check the result with my collegues and supervisor, make some improvement, and write a conclusion for this algorithm.
+
+Really haven't felt such a sense of achievement for a long time.
