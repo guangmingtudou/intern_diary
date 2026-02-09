@@ -1,0 +1,2 @@
+### 2.9
+My programs have been added to the whole Poc, and it works quite well. The rules it got have quite a high accuracy when checked by experts. I'm considering further improvement like adding edge restriction when training and changing the way of updating rule matrix, and am ready to realize them in this week.
