@@ -23,3 +23,6 @@ Really haven't felt such a sense of achievement for a long time.
 
 ### 2.6
 I've been fixing bugs and connecting my codes with my colleagues' for the last two days, coding towards 12 p.m. before throwing myself onto my bed last night. In the afternoon, I've finally fixed all the bugs and wrong ideas in my programs. It turns out that my programs on Wednesday still had problems, though I didn't notice because of the lack of checkpoints and test examples. One important lesson that I had learnt is that, instead of staring at the programs and conducting thought experiments, It's better to really check the variables with print, logger and debug tools.
+
+### 2.10
+Our programs and algorithms are shown to the entire group for the first time today. It's the very first time for me to introduce an algorithm that is entirely constructed by me, so I'm quite nervous, and my introduction seems to be not that comprehensible. However, after rounds of Q&A, my algorithm is finally understood and accepted. I'm considering adding things like F1 score to show the accuracy directly, and add some more details for the program.
