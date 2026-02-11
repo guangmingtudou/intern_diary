@@ -47,7 +47,7 @@ graph LR
     topo[topological graph] --> G
 ```
 
-Reference
+## Reference
 A Gentle Introduction to Graph Neural Networks https://distill.pub/2021/gnn-intro/
 Discovering Alarm Correlation Rules for
 Network Fault Management https://www.philippe-fournier-viger.com/2020_AIOPS_Alarm_correlation_rules.pdf
